@@ -3,6 +3,6 @@ class Calculator
 {
 public:
 	double Calculate(double x, char oper, double y);
-	double evaluate();
+	double evaluate2();
 };
 

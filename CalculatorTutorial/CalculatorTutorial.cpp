@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-    double x = 0.0;
-    double y = 0.0;
+    double x = 1.0;
+    double y = 1.0;
     double result = 0.0;
     char oper = '+';
         cout << "Calculator Console Application" << endl << endl;

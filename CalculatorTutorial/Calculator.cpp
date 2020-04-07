@@ -17,7 +17,7 @@ double Calculator::Calculate(double x, char oper, double y)
     }
 }
 
-double Calculator::evaluate()
+double Calculator::evaluate2()
 {
 	return 0.0;
 }
